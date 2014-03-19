@@ -1,0 +1,19 @@
+# Template
+
+Hardened Clay = 
+White Hardened Clay = 
+Black Hardened Clay = 
+Light Blue Hardened Clay = 
+Green Hardened Clay = 
+Red Hardened Clay = 
+Light Gray Hardened Clay = 
+Purple Hardened Clay = 
+Lime Hardened Clay = 
+Magenta Hardened Clay = 
+Orange Hardened Clay = 
+Brown Hardened Clay = 
+Blue Hardened Clay = 
+Yellow Hardened Clay = 
+Pink Hardened Clay = 
+Cyan Hardened Clay = 
+Gray Hardened Clay = 

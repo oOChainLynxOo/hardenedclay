@@ -1,0 +1,19 @@
+# Translation by Xanthin
+
+Hardened Clay = Gebrannter Ton
+White Hardened Clay = Gebrannter Ton (weiss)
+Black Hardened Clay = Gebrannter Ton (schwarz)
+Light Blue Hardened Clay = Gebrannter Ton (hellblau)
+Green Hardened Clay = Gebrannter Ton (gruen)
+Red Hardened Clay = Gebrannter Ton (rot)
+Light Gray Hardened Clay = Gebrannter Ton (hellgrau)
+Purple Hardened Clay = Gebrannter Ton (lila)
+Lime Hardened Clay = Gebrannter Ton (gelbgruen)
+Magenta Hardened Clay = Gebrannter Ton (magenta)
+Orange Hardened Clay = Gebrannter Ton (orange)
+Brown Hardened Clay = Gebrannter Ton (braun)
+Blue Hardened Clay = Gebrannter Ton (blau)
+Yellow Hardened Clay = Gebrannter Ton (gelb)
+Pink Hardened Clay = Gebrannter Ton (rosa)
+Cyan Hardened Clay = Gebrannter Ton (tuerkis)
+Gray Hardened Clay = Gebrannter Ton (grau)
