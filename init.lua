@@ -1,4 +1,11 @@
 
+local S
+if intllib then
+	S = intllib.Getter()
+else
+	S = function(s) return s end
+end
+
 local colors = {
 	"White", "Black", "Light Blue", "Green", "Red",
 	"Light Gray", "Purple", "Lime", "Magenta", "Orange",
@@ -6,7 +13,7 @@ local colors = {
 }
 
 minetest.register_node("hardenedclay:hardened_clay", {
-	description = "Hardened Clay",
+	description = S("Hardened Clay"),
 	tiles = {"hardened_clay.png"},
 	groups = {cracky=3},
 })
@@ -20,7 +27,7 @@ minetest.register_craft({
 for _, color in pairs(colors) do
 	local nodecolor = color:lower():gsub(" ", "_")
 	minetest.register_node("hardenedclay:hardened_clay_"..nodecolor, {
-		description = color.." Hardened Clay",
+		description = S("%s Hardened Clay"):format(S(color)),
 		tiles = {"hardened_clay_"..nodecolor..".png"},
 		groups = {cracky=3},
 	})
