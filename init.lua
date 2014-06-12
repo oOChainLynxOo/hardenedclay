@@ -14,7 +14,7 @@ local colors = {
 
 minetest.register_node("hardenedclay:hardened_clay", {
 	description = S("Hardened Clay"),
-	tiles = {"hardened_clay.png"},
+	tiles = {"hardenedclay_regular.png"},
 	groups = {cracky=3},
 })
 
@@ -28,7 +28,7 @@ for _, color in pairs(colors) do
 	local nodecolor = color:lower():gsub(" ", "_")
 	minetest.register_node("hardenedclay:hardened_clay_"..nodecolor, {
 		description = S("%s Hardened Clay"):format(S(color)),
-		tiles = {"hardened_clay_"..nodecolor..".png"},
+		tiles = {"hardenedclay_"..nodecolor..".png"},
 		groups = {cracky=3},
 	})
 	minetest.register_craft({
